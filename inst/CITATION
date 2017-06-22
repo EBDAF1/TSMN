@@ -1,0 +1,13 @@
+citHeader("To cite TSMN in publications use:")
+
+citEntry(entry = "Manual",
+  title        = "TSMN: Truncated Scale Mixtures of Normal Distributions",
+  author       = "Eraldo B. Dos Anjos Filho and Aldo M. Garay",
+  year         = "2017",
+  url          = "https://CRAN.R-project.org/package=TSMN",
+
+  textVersion  =
+  paste("Filho, E. B. D. A., Garay, A. M., 2017.",
+        "TSMN: Truncated Scale Mixtures of Normal Distributions.",
+        "URL https://CRAN.R-project.org/package=TSMN")
+)

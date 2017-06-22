@@ -1,0 +1,16 @@
+Package: TSMN
+Type: Package
+Title: Truncated Scale Mixtures of Normal Distributions
+Version: 1.2.0
+Author: Eraldo B. dos Anjos Filho <ebdaf1@de.ufpe.br> and Aldo M. Garay <agaray@de.ufpe.br>
+Maintainer: Eraldo B. dos Anjos Filho <ebdaf1@de.ufpe.br>
+Description: This package includes two functions related to the truncated scale mixtures of normal distribution. One of then is to generate random samples from TSMN distribution, and other is to compute the first four theoretical moments.
+Depends: R (>= 3.2.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
